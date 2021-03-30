@@ -1,0 +1,91 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #808080;
+}
+.boogie {
+	height: 800px;
+	width: 900px;
+	border-radius: 50%;
+	overflow: hidden;
+}	
+.navbar nav {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	display: inline;
+}
+.navbar ul {
+	list-style-type: none;
+	top: 0;
+	left: 0;
+	right: 0;
+	height: 70px;
+	background-color: #808000;
+	text-align: center;
+}
+.navbar li {
+	margin: 20px;
+	display: inline;
+}
+.navbar li a {
+	color: #000000;
+	text-decoration: none;
+}	
+.img1 {
+	height: 800px;
+	width: 800px;
+	border-radius: 50%;
+	overflow: hidden;
+}
+img2 {
+	height: 800px;
+	width: 800px;
+	border-radius: 50%;
+	overflow: hidden;
+}
+.img4 {
+	height: 800px;
+	width: 800px;
+	border-radius: 50%;
+	overflow: hidden;
+}
+.img7 {
+	height: 600px;
+	width: 800px;
+	border-radius: 50%;
+	overflow: hidden;
+}
+h2 {
+	font-family: "Calibri", cursive;
+	color: #000000;
+	text-align: left;
+}
+h1 {
+	font-family: "Calibri", cursive;
+	color: #808080;
+	height: 20px;
+}
+h4 {
+	font-family: "Calibri", cursive;
+	text-align: left;
+	height: 25px;
+	color: #808000;
+}
+.index {
+	background-color: #C0C0C0;
+	padding: 0;
+	margin: 0;
+}
+.resume {
+	background-color: #F5F5DC;
+	padding: 0;
+	margin: 0;
+}
+.jewelry {
+	background-color: #E3D7D6;
+	padding: 0;
+	margin: 0;
+}
+
+	
